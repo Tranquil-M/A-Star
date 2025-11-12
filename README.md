@@ -36,6 +36,7 @@ python main.py
 * Left click to place a start node
 * After a start node has been placed, click again to add an end node
 * After both nodes are present, click anywhere else to add an obstacle.
+* Right click to remove a node
 * Press space to run the algorithm
 * Press c to clear the board
 

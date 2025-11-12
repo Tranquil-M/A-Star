@@ -29,7 +29,6 @@ cd ./A-Star
 4. Run main.py
 ```
 python main.py
-
 ```
 
 # Controls

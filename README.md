@@ -17,17 +17,14 @@ Don't worry, It's simple!
 1. Clone this repository onto your computer
 ```
 git clone https://github.com/Tranquil-M/A-Star
-
 ```
 2. Install pygame
 ```
 python -m pip install pygame-ce
-
 ```
 3. Move into the A-Star directory
 ```
 cd ./A-Star
-
 ```
 4. Run main.py
 ```
@@ -46,4 +43,5 @@ python main.py
 # Credits
 
 [Pygame](https://www.pygame.org/docs/)
+
 [Tech With Tim](https://www.youtube.com/@TechWithTim)

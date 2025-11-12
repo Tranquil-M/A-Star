@@ -15,8 +15,25 @@ Utilizing pygame, this script serves as a vizualizer for the A* algorithm
 Don't worry, It's simple!
 
 1. Clone this repository onto your computer
+```
+git clone https://github.com/Tranquil-M/A-Star
+
+```
 2. Install pygame
-3. Run main.py
+```
+python -m pip install pygame-ce
+
+```
+3. Move into the A-Star directory
+```
+cd ./A-Star
+
+```
+4. Run main.py
+```
+python main.py
+
+```
 
 # Controls
 
